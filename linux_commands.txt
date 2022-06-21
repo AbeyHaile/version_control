@@ -1,0 +1,41 @@
+# go to root tree and check global git configuration 
+	cat .gitconfig
+
+# list everything 
+	git config —global -l
+
+# add and remove any of the settings. Remove username 
+	git config —-global -—unset user.name
+	git config —-global user.name “new user name”
+
+# to create alias
+	git config -—global alias.cm commit
+	git config —-global alias.a add …
+	
+# to create folder from terminal and open it
+	mkdir folder_Name && folder_Name 
+
+# to create file
+	touch file.txt, touch index.html, touch python.py,….
+
+# to delete empty folder
+	rmdir folder_Name
+
+# if folder not empty
+	rm -r foldr_Name 
+# if override r--r--r-- 
+	rm -rf folder_name
+
+# clear terminal :
+	clear 
+
+# Move a file or folder locally
+mv ~/Downloads/MyFile.txt ~/Documents/Work/MyFile.txt
+mv ~/Downloads/MyFile.txt ~/Documents/Work/NewFileName.txt
+# Copy to folder 
+% cp -R ~/Documents/Expenses /Volumes/Data/Expenses
+
+# Basic linux commands
+https://www.hostinger.co.uk/tutorials/linux-commands
+
+
