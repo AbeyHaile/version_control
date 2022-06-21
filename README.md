@@ -9,4 +9,6 @@ Linux commands
 
 4. Extensions for Python 
 
-5. 
+5. install remote repositories exstension 
+
+6. 
