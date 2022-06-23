@@ -1,6 +1,7 @@
-# tall VS Code
 
-1. Install VS 
+# Install VS Code
+
+1. 
 
 2. Create python environment  
 
