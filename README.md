@@ -1,5 +1,4 @@
-# version_control
-Linux commands
+# tall VS Code
 
 1. Install VS 
 
