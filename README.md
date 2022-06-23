@@ -9,6 +9,7 @@ Linux commands
 
 4. Extensions for Python 
 
-5. install remote repositories exstension 
+5. Install remote repositories exstension depending on version of VS and follow the instruction. I didn't have to
 
-6. 
+6. Click on source control --> write commit message --> ... tab select push. As long as github repo is configured to the local folder 
+
