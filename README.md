@@ -3,13 +3,13 @@
 
 1. 
 
-2. Create python environment  
+2. Create Python environment  
 
-3. Select the python interprator  
+3. Select the Python interpreter  
 
 4. Extensions for Python 
 
-5. Install remote repositories exstension depending on version of VS and follow the instruction. I didn't have to
+5. Install remote repositories extension depending on the version of VS and follow the instructions. I didn't have to
 
-6. Click on source control --> write commit message --> ... tab select push. As long as github repo is configured to the local folder 
+6. Click on source control --> write commit message --> ... tab select push. As long as GitHub repo is configured to the local folder 
 
